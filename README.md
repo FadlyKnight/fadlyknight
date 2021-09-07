@@ -10,7 +10,7 @@
 - (...)
 
 ### ⚡ Fun fact: 
-- Psstt I'm able to Remote Project, just contact me.. 
+- Psstt I'm able to Remote Work, just contact me.. 
 
 <!--
 **FadlyKnight/fadlyknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
