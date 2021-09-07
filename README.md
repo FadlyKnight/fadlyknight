@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on "Secret" Company lol, and make some secret project
-- 🌱 I’m currently learning about Nuxt Js
+- 🌱 Rightnow I’m learning about Nuxt Js and Vue Js Of Course
 
 ### 📫 How to reach me: 
 - Mail : <a href="mailto:fadlyknight@gmail.com">fadlyknight@gmail.com</a>
