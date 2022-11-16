@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlyknight&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlyknight&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadlyknight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 - 🔭 I’m currently working on "Secret" Company lol, and make some secret project
 - 🌱 Rightnow I’m learning about Node.js Lambda on AWS
