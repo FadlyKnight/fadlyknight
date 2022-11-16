@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlyknight&show_icons=true&theme=dracula)
 ### Hi there 👋
 - 🔭 I’m currently working on "Secret" Company lol, and make some secret project
 - 🌱 Rightnow I’m learning about Node.js Lambda on AWS
