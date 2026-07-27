@@ -6,9 +6,9 @@
 
 Building scalable web applications with Laravel, React, TypeScript, and Cloud technologies.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadlyknight&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/fadlyknight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fadlyknight&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/fadlyknight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadlyknight&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fadlyknight&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
